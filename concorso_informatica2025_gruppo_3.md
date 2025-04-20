@@ -14,7 +14,7 @@ ___
 ___
 ## Membri del Gruppo:
 
- **Tanef Andrei Leonard** - Scrub master  
+ **Tanef Andrei Leonard** - Scrum master  
  **Semenov Fedor** - Adetto Backend  
  **Gallina Alessandro** - Addetto Frontend  
  **DeBeni Alessandro** - Addetto Frontend  
