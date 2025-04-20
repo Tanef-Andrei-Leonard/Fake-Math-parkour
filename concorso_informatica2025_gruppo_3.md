@@ -5,6 +5,7 @@ ___
 
 ## **Descrizioni breve: Un parkour nel quale bisogna risolvere dei calcoli matematici che aumentano di difficoltà ogni livello.** 
 ## **Per completare e finire il gioco bisogna rispondere correttamente ad ogni quesito e completare tutti i livelli.** 
+## **Fai attenzione agli astronauti che possono suggerirti risposte corrette o risposte errate, scegli con cautela!**
 ___
 
 ## ITIS MARCONI - 3GI
