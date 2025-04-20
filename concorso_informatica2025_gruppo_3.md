@@ -27,5 +27,3 @@ ___
 [Project on Trello](https://trello.com/invite/b/67da7dad91167d5c834b5fc8/ATTI2066f80386ca5e861196a8666cbf6ce43532F96D/lavoro-informatica-gdst-math-parkour)
 
 [Project on GitHub](https://github.com/Tanef-Andrei-Leonard/Math-parkour)
-
-[Per unirsi alla classe e visuallizzare il progetto, codice Y2Z6T](https://edu.cospaces.io/Auth)
