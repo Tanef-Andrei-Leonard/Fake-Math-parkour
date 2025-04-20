@@ -8,11 +8,11 @@ ___
 ## **Durante il viaggio incontrerai degli astronauti che ti daranno suggerimenti, giusti o sbagliati.**  
 ### **Esempi:**  
 
-*Mr. president said that...*
-*I read in the newspaper that...*
-*I heard on tv that...*
+*Mr. president said that...*  
+*I read in the newspaper that...*  
+*I heard on tv that...*  
 
-**Questa affermazioni possono essere false, senza nessuna fonte, come nella vita reale.**
+**Questa affermazioni potrebbero essere false, senza nessuna fonte, come nella vita reale.**
 **Perciò dovrai fare molta attenzione e scegliere con cura l'astronauta di cui fidarti!**
 **Buona fortuna!**
 ___
