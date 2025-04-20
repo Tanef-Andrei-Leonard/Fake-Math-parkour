@@ -5,7 +5,7 @@ ___
 
 ## **Descrizioni breve: Un parkour nel quale bisogna risolvere dei calcoli matematici che aumentano di difficoltà ogni livello.** 
 ## **Per completare e finire il gioco bisogna rispondere correttamente ad ogni quesito e completare tutti i livelli.** 
-## **Durante il viaggio incontrerai degli astronauti che ti daranno suggerimenti, giusti o sbagliati.**  
+## **Durante il viaggio incontrerai degli astronauti che ti daranno suggerimenti, i quali potrebbero essere corretti o meno.**  
 ### **Esempi:**  
 
 *Mr. president said that...*  
