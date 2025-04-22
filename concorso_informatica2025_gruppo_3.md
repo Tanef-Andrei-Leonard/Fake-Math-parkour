@@ -1,7 +1,7 @@
 # *La realtà che vorrei - Di chi fidarsi?*
 
 ___
-## **Titolo del progetto - Math Parkour**
+## **Titolo del progetto - Fake Math Parkour**
 
 ## **Descrizioni breve: Un parkour nel quale bisogna risolvere dei calcoli matematici che aumentano di difficoltà ogni livello.** 
 ## **Per completare e finire il gioco bisogna rispondere correttamente ad ogni quesito e completare tutti i livelli.** 
